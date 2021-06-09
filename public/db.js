@@ -1,5 +1,5 @@
 let db;
-const request = indexedDB.open("dbbudgettracker", 1);
+const request = indexedDB.open("dbBudgetTracker", 1);
 
 request.onupgradeneeded = function (e) {
   const db = e.target.result;
