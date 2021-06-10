@@ -18,13 +18,16 @@
 
 
 ## Introduction
-A real-time workout tracker, that allows the user to create a new workout, add to an existing workout, and view your exercise statistics.
+Budget Tracker is a progressive web application that allows the user to track their finances, with or without internet connection.
 
 ## Demo
-![Screencast Demo](./assets/img/tracker.gif)
+
+### PWA (Pogressive Web Application) and OFFLINE 
+<img src="./assets/img/offline.gif" width="300" height="600"/>
+
 
 ## Youtube
-Watch a demo of the application on [Youtube. BudgetTracker Video.](https://www.youtube.com/watch?v=kLWtbrKn7qc)
+Watch a demo of the application on [Youtube. BudgetTracker Video.](https://www.youtube.com/watch?v=m0SFZFwqdwg)
 
 ## Samples
 
