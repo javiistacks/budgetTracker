@@ -21,7 +21,10 @@
 A real-time workout tracker, that allows the user to create a new workout, add to an existing workout, and view your exercise statistics.
 
 ## Demo
-![Screencast Demo](./assets/img/tracker.gif)
+
+### PWA (Pogressive Web Application) and OFFLINE 
+<img src="./assets/img/offline.gif" width="300" height="600"/>
+
 
 ## Youtube
 Watch a demo of the application on [Youtube. BudgetTracker Video.](https://www.youtube.com/watch?v=kLWtbrKn7qc)
