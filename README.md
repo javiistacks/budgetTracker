@@ -53,6 +53,10 @@ Type the following npm install commands:
 ```
 on the command line while in the budgetTracker folder. This will download all dependencies. 
  
+ <details><summary> CLICK HERE TO SEE ALL NPM PACKAGES</summary>
+
+<blockquote>
+ 
 * [mongoose](https://www.npmjs.com/package/mongoose)
   * Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.
 
@@ -67,6 +71,10 @@ on the command line while in the budgetTracker folder. This will download all de
 
 * [compression](https://www.npmjs.com/package/compression)
   * Node.js compression middleware.
+
+</blockquote>
+</details>
+
 
 ## Usage
 
