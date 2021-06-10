@@ -18,7 +18,7 @@
 
 
 ## Introduction
-A real-time workout tracker, that allows the user to create a new workout, add to an existing workout, and view your exercise statistics.
+Budget Tracker is a progressive web application that allows the user to track their finances, with or without internet connection.
 
 ## Demo
 
@@ -27,7 +27,7 @@ A real-time workout tracker, that allows the user to create a new workout, add t
 
 
 ## Youtube
-Watch a demo of the application on [Youtube. BudgetTracker Video.](https://www.youtube.com/watch?v=kLWtbrKn7qc)
+Watch a demo of the application on [Youtube. BudgetTracker Video.](https://www.youtube.com/watch?v=m0SFZFwqdwg)
 
 ## Samples
 
