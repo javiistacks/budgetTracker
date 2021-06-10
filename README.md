@@ -1,9 +1,9 @@
-# Unit 17 NoSQL Homework: Workout Tracker
+# Unit 18 PWA Homework: Online/Offline Budget Trackers
 [![Generic badge](https://img.shields.io/badge/license-MIT-<COLOR>.svg)](#license)
 ![GitHub language count](https://img.shields.io/github/languages/count/javiistacks/budgettracker)
 ![GitHub top language](https://img.shields.io/github/languages/top/javiistacks/budgettracker)
 
-# workoutTracker
+# budgetTracker
 
 ## Table of Contents
 * [Introduction](#introduction)
