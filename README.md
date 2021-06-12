@@ -8,6 +8,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Demo](#demo)
+* [Youtube](#youtube)
 * [Samples](#samples)
 * [Installations](#installations)
 * [Usage](#usage)
@@ -22,12 +23,17 @@ Budget Tracker is a progressive web application that allows the user to track th
 
 ## Demo
 
+![Screencast Demo](./assets/img/budget.gif)
+
+
 ### PWA (Pogressive Web Application) and OFFLINE 
 <img src="./assets/img/offline.gif" width="300" height="600"/>
 
 
 ## Youtube
 Watch a demo of the application on [Youtube. BudgetTracker Video.](https://www.youtube.com/watch?v=m0SFZFwqdwg)
+
+
 
 ## Samples
 
@@ -47,6 +53,10 @@ Type the following npm install commands:
 ```
 on the command line while in the budgetTracker folder. This will download all dependencies. 
  
+ <details><summary> CLICK HERE TO SEE ALL NPM PACKAGES</summary>
+
+<blockquote>
+ 
 * [mongoose](https://www.npmjs.com/package/mongoose)
   * Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.
 
@@ -61,6 +71,10 @@ on the command line while in the budgetTracker folder. This will download all de
 
 * [compression](https://www.npmjs.com/package/compression)
   * Node.js compression middleware.
+
+</blockquote>
+</details>
+
 
 ## Usage
 
